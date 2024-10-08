@@ -18,6 +18,7 @@ Proyecto de Clase para la Unidad 1 de la Asignatura de Desarrollo Móvil Integra
 |8|Funciones y Parámetros|11|✅Finalizada|
 |9|Classes|9|✅Finalizada|
 |10|Constructores Nombrados|8|✅Finalizada|
+|11|Settings y Getters|9|✅Finalizada|
 
 
 
