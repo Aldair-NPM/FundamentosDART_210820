@@ -21,8 +21,10 @@ Proyecto de Clase para la Unidad 1 de la Asignatura de Desarrollo Móvil Integra
 |11|Settings y Getters|9|✅Finalizada|
 |12|Aserciones|3|✅Finalizada|
 |13|Clases Abstractas|11|✅Finalizada|
-|14|Mixins|11|⭐Activa|
-|15|Futures|7|⭐Activa|
+|14|Mixins|11|✅Finalizada|
+|15|Futures|7|✅Finalizada|
+|16|Async y Await||⭐Activa|
+
 
 
 
