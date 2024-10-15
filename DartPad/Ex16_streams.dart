@@ -20,7 +20,7 @@ Stream<int> emitNumbers() {
     // El valor que emite es un entero que empieza en 0 y aumenta con cada emisión.
     
     return value;
-    // Se retorna el valor del contador que incrementa con cada llamada (0, 1, 2, ...).
+    // Se retorna el valor del contador que incrementa con cada llamada.
   }).take(5);
-  // El método take(5) limita el número de emisiones a 5, es decir, el Stream solo emitirá 5 valores (0, 1, 2, 3, 4) y luego se cerrará.
+  // El método take(5) limita el número de emisiones a 5, es decir, el Stream solo emitirá 5 valores y luego se cerrará.
 }

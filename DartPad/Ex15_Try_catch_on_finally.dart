@@ -43,9 +43,4 @@ Future<String> httpGet( String url ) async {
   // Lanza una excepción de tipo 'Exception' con el mensaje 'No hay parámetros en el URL'.
   // Este error será capturado en el bloque 'on Exception' de la función main.
 
-  // throw 'Error en la petición';
-  // Esta línea está comentada, pero si se descomenta lanzaría un error genérico que sería capturado en el bloque 'catch' de main.
-  
-  // return 'Tenemos un valor de la petición';
-  // Esta línea está comentada. Si se usara, la función retornaría este valor y se imprimiría en el bloque try como éxito.
 }
