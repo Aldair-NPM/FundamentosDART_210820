@@ -23,10 +23,10 @@ Proyecto de Clase para la Unidad 1 de la Asignatura de Desarrollo Móvil Integra
 |13|Clases Abstractas|11|✅Finalizada|
 |14|Mixins|11|✅Finalizada|
 |15|Futures|7|✅Finalizada|
-|16|Async y Await|5|⭐Activa|
-|17|Try Catch On Finally|6|⭐Activa|
-|18|Streams|6|⭐Activa|
-|19|Streams Await|4|⭐Activa|
+|16|Async y Await|5|✅Finalizada|
+|17|Try Catch On Finally|6|✅Finalizada|
+|18|Streams|6|✅Finalizada|
+|19|Streams Await|4|✅Finalizada|
 
 
 
